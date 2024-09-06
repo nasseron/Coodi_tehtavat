@@ -1,5 +1,3 @@
-from random import random
-
 numbers = []
 
 syote = input("Anna luku (tai tyhja merkijono pyshtömään): ")
