@@ -1,3 +1,6 @@
+from tkinter.font import names
+
+
 def main():
     names = set()
     while True:
