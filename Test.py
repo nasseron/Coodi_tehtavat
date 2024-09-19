@@ -1,1 +1,2 @@
-print("Moikka")
+import mysql.connector
+
